@@ -1,0 +1,1 @@
+Initial commit which includes a basic DLL Injection using LoadLibrary method. It comes with a command line utility where you can specify a process name and DLL to Inject. TODO: add PID Injection capability to command-line tool. This will allow for specific process Injection in case where multiple instances of a process name are loaded in memory.
